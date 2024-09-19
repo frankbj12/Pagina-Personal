@@ -1,1 +1,1 @@
-https://github.com/frankbj12/Pagina-Personal.git
+https://github.com/frankbj12/Pagina-Personal.io
