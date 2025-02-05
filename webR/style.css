@@ -603,6 +603,40 @@ html{
 
 
 
+
+.certi{
+    background-color: #1c1c1c;
+    color: #646464;
+    padding: 20px;
+}
+.certi .contenido-section {
+    max-width: 1100px;
+    margin: auto;
+}
+.certi h2 {
+    font-size: 48px;
+    font-family: 'Righteous';
+    text-align: center;
+    padding: 20px 0 ;
+}
+.certi .galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.certi .galeria .proyecto{
+    position: relative;
+    max-width: 340px;
+    height: fit-content;
+    margin: 10px;
+    cursor: pointer;
+}.certi .galeria .proyecto img{
+    width: 100%;
+    display: block;
+}
+
+
+
 .contacto{
     background-image: url(img/world-map.jpg);
     background-color: #616d66;
